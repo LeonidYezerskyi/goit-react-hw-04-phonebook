@@ -1,0 +1,26 @@
+.title {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.button {
+    padding: 5px 10px;
+    margin: 20px auto 0 0;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    background-color:white;
+    color: rgb(0, 155, 26);
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+.inputPaper {
+    border: 1px solid black;
+}
